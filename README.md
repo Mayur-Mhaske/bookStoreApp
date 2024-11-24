@@ -1,4 +1,4 @@
-BookStoreApp
+#BookStoreApp
 A full-stack web application for managing a bookstore, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This app allows users to view, add, edit, and delete books in a virtual store.
 
 Technologies Used:
