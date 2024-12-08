@@ -112,4 +112,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to copy and paste this into your `README.md` file! If you want to add any other details, like additional features, instructions, or images, let me know! 😊
